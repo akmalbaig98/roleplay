@@ -11,7 +11,7 @@ authority on Perl6 roles, but a Perl5 implementation.
 Synopsis
 =======================================
 
-Creating Roles
+Creating Roles is important
 ______________
 
 >>> from roleplay.role import Role
